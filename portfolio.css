@@ -14,7 +14,7 @@ body{
 #header{
     width: 100%;
     height: 100vh;
-    background-image: url(/images/desktopvp.jpg);
+    background-image: url(./images/desktopvp.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -313,7 +313,7 @@ nav .fas{
 }
 @media only screen and (max-width:600px){
     #header{
-        background-image: url(/images/phonevp.jpg);
+        background-image: url(./images/phonevp.jpg);
     }
     .header-text{
         margin-top: 100%;
